@@ -14,9 +14,9 @@ console.log(`the sum of a, b, and c is ${sum}`);
 
 let a2 = prompt("please enter your first number", "");
 let b2 = prompt("please enter your second number", "");
-let c3 = prompt("please enter your third number", "")
+let c2 = prompt("please enter your third number", "")
 
-const sum2 = parseInt(a2) + parseInt(b2) + parseInt(c3);
+const sum2 = parseInt(a2) + parseInt(b2) + parseInt(c2);
 
 
 console.log(`the sum of a, b, and c is ${sum2}`);
