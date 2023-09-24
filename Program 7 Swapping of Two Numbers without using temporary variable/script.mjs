@@ -7,11 +7,11 @@ let b = parseInt(prompt("Please enter the second value"));
 console.log(`1st value is ${a}, \n 2nd value is ${b}`);
 
 a = a + b; /// 5
-b = a - b;
-a = a - b;  
+b = a - b;  // 2
+a = a - b;  // 3
 
 
-console.log(`After swapping1st value is ${a}, \n 2nd value is ${b}`);
+console.log(`After swapping \n 1st value is ${a}, \n 2nd value is ${b}`);
 
 
 
