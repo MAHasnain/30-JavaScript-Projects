@@ -1,8 +1,7 @@
 # 30-JavaScript-Projects
 30+ JavaScript Projects (or problems)
 
-
-Content in this video -
+Projects name -
 👉 Printing hello world using JavaScript
 👉 Basic mathematical operations like adding two numbers, swapping two numbers, square root of numbers
 👉 Converting Kilometers to Miles and Celsius to Fahrenheit
